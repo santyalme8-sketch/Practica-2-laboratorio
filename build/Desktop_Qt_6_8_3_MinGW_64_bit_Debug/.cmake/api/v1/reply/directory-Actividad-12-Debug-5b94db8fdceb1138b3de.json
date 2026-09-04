@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Actividad-12/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Actividad-12/Actividad-12.exe"
+			],
+			"targetId" : "Actividad-12::@4b1886de247b1d010e27",
+			"targetIndex" : 1,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Actividad-12",
+		"source" : "Actividad-12"
+	}
+}

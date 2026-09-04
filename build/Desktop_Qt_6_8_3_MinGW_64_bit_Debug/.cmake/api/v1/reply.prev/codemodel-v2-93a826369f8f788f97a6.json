@@ -1,0 +1,511 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-252d30929709977da18f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"build" : "Actividad2-2",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-2-Debug-34d501536dc26778c333.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Actividad2-2",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Actividad2-3",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-3-Debug-41403c737fbdf5380356.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Actividad2-3",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "Actividad2-4",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-4-Debug-5fe5410ab1c4575813f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Actividad2-4",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "Actividad2-5",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-5-Debug-df3a5cd895ff4af203e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Actividad2-5",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "Actividad2-6",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-6-Debug-867ede43602ebe9e00e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Actividad2-6",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "Actividad2-7",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-7-Debug-b3e5a7ea3296ee2a815d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 6,
+					"source" : "Actividad2-7",
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"build" : "Actividad2-8",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-8-Debug-37c90fc5086c1ff217af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 7,
+					"source" : "Actividad2-8",
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"build" : "Actividad2-9",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-9-Debug-75f38e8de36597c31b6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 8,
+					"source" : "Actividad2-9",
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"build" : "Actividad2-10",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-10-Debug-ee7208880aeb73725a6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 9,
+					"source" : "Actividad2-10",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Actividad-11",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad-11-Debug-8975e3c87494aa630732.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "Actividad-11",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Actividad-12",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad-12-Debug-5b94db8fdceb1138b3de.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 11,
+					"source" : "Actividad-12",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Actividad2-17",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Actividad2-17-Debug-c303f4c30b3416e36707.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 12,
+					"source" : "Actividad2-17",
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Practice-2",
+					"targetIndexes" : 
+					[
+						12
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Actividad2-2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Actividad2-3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Actividad2-4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Actividad2-5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Actividad2-6",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "Actividad2-7",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "Actividad2-8",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						10
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						8
+					],
+					"name" : "Actividad2-9",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "Actividad2-10",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						10
+					],
+					"name" : "Actividad-11",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						11
+					],
+					"name" : "Actividad-12",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "Actividad2-17",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 10,
+					"id" : "Actividad-11::@eac5e4d831757002e311",
+					"jsonFile" : "target-Actividad-11-Debug-01a91f04c4f33a71d867.json",
+					"name" : "Actividad-11",
+					"projectIndex" : 10
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "Actividad-12::@4b1886de247b1d010e27",
+					"jsonFile" : "target-Actividad-12-Debug-59dd13bd0782e9072a24.json",
+					"name" : "Actividad-12",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "Actividad2-10::@38d2e07874d0b1a54eae",
+					"jsonFile" : "target-Actividad2-10-Debug-f661e16503a2c6d4b54f.json",
+					"name" : "Actividad2-10",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "Actividad2-17::@2bed7014333bc26a0a7f",
+					"jsonFile" : "target-Actividad2-17-Debug-82e097af4a36fb4c506b.json",
+					"name" : "Actividad2-17",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Actividad2-2::@d83bd7f97fd609c8752b",
+					"jsonFile" : "target-Actividad2-2-Debug-9a7194e497c29e6643b7.json",
+					"name" : "Actividad2-2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Actividad2-3::@45aba3a76bcaea9f6fdd",
+					"jsonFile" : "target-Actividad2-3-Debug-6ce19af48ff4cab17d29.json",
+					"name" : "Actividad2-3",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Actividad2-4::@5305da82037e559937d7",
+					"jsonFile" : "target-Actividad2-4-Debug-dc4d44fa78624c0d253b.json",
+					"name" : "Actividad2-4",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Actividad2-5::@873f71fb60c270e64da8",
+					"jsonFile" : "target-Actividad2-5-Debug-401d09cfdc2a30ee8f92.json",
+					"name" : "Actividad2-5",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Actividad2-6::@89f7a6c535b3b9ead32c",
+					"jsonFile" : "target-Actividad2-6-Debug-af282d775739247ea8c6.json",
+					"name" : "Actividad2-6",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "Actividad2-7::@6eac4c06f8753d1403b1",
+					"jsonFile" : "target-Actividad2-7-Debug-a6c40949a83d77ee13bc.json",
+					"name" : "Actividad2-7",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "Actividad2-8::@276a8f54af529ec0636b",
+					"jsonFile" : "target-Actividad2-8-Debug-e459ac3d6daf9cb77a14.json",
+					"name" : "Actividad2-8",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "Actividad2-9::@d6d200d3e0c9f7914153",
+					"jsonFile" : "target-Actividad2-9-Debug-53ae4f8802e9c1a1bf6f.json",
+					"name" : "Actividad2-9",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practice-2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practice-2-Debug-ef9f0f9c0f0bccec61fc.json",
+					"name" : "Practice-2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/santy/OneDrive/Documentos/Practice-2/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug",
+		"source" : "C:/Users/santy/OneDrive/Documentos/Practice-2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,3 @@
+C:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\Actividad2-10.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\Actividad2-10.dir/objects.a @CMakeFiles\Actividad2-10.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Actividad2-10.dir/objects.a -Wl,--no-whole-archive -o Actividad2-10.exe -Wl,--out-implib,libActividad2-10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Actividad2-10.dir\linkLibs.rsp

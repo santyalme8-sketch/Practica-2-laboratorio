@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Actividad2-8/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Actividad2-8/Actividad2-8.exe"
+			],
+			"targetId" : "Actividad2-8::@276a8f54af529ec0636b",
+			"targetIndex" : 11,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Actividad2-8",
+		"source" : "Actividad2-8"
+	}
+}

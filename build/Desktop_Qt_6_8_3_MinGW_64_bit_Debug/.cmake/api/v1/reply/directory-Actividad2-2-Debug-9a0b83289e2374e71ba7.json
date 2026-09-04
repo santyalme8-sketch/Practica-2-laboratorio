@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Actividad2-2/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Actividad2-2/Actividad2-2.exe"
+			],
+			"targetId" : "Actividad2-2::@d83bd7f97fd609c8752b",
+			"targetIndex" : 5,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Actividad2-2",
+		"source" : "Actividad2-2"
+	}
+}

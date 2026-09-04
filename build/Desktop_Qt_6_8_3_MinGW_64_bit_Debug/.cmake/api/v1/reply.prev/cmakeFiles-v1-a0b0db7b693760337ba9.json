@@ -1,0 +1,330 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/3.30.5/CMakeSystem.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-2/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-3/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-4/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-5/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-6/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-7/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-8/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-9/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-10/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad-11/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad-12/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"path" : "Actividad2-17/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/qtcreator-project.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/.qtcreator/cmake-helper/package-manager.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "C:/Users/santy/OneDrive/Documentos/Practice-2/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug",
+		"source" : "C:/Users/santy/OneDrive/Documentos/Practice-2"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

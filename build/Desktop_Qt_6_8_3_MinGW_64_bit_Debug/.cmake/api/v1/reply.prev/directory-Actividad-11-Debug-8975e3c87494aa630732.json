@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Actividad-11/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"Actividad-11/Actividad-11.exe"
+			],
+			"targetId" : "Actividad-11::@eac5e4d831757002e311",
+			"targetIndex" : 0,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Actividad-11",
+		"source" : "Actividad-11"
+	}
+}
